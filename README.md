@@ -1,10 +1,7 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Karim Mahdy Abdel Karim</h1>
 <h3 align="center">Software Engineer | Full Stack .NET Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-mahdy&label=Profile%20views&color=0e75b6&style=flat" alt="karim-mahdy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim-mahdy" alt="karim-mahdy" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karim-mahdy](https://github.com/Karim-mahdy)
 
